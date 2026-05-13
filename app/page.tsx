@@ -111,7 +111,7 @@ export default function HomePage() {
     <div className="flex flex-col min-h-screen bg-black text-white items-center justify-center">
 
       <h1 className="text-5xl font-bold">
-        Welcome To ComediansClub 🔥
+        Welcome To ComediansClub {userEmail}🔥
       </h1>
 
       <p className="text-zinc-400 mt-4 text-lg">
